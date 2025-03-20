@@ -1,0 +1,6 @@
+:root{
+    --primary-white-color:#FFFFFF;
+    --primary-blue-color:#021CFF;
+    --primary-black-color:#1D1D1D;
+    --transition-function: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
